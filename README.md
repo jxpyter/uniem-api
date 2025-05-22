@@ -98,9 +98,9 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 
 ## 👨‍💻 Author
 
-GitHub: jxpyter
+- GitHub: [jxpyter](https://github.com/jxpyter)
 
-Project: Uniem - Empowering University Students
+- Project: Uniem - Empowering University Students
 
 ## 🤝 Contributing
 
