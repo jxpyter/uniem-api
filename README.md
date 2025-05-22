@@ -109,4 +109,4 @@ Feel free to open a pull request or issue.
 
 ## 📬 Contact
 
-For questions or feedback, feel free to reach out via GitHub or email.
+For questions or feedback, feel free to reach out via GitHub.
