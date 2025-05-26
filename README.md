@@ -61,12 +61,8 @@
    JWT_EXPIRES_IN=30d
    JWT_COOKIE_EXPIRES_IN=90
 
-   EMAIL_USERNAME=your_username
-   EMAIL_PASSWORD=your_password
-   EMAIL_HOST=your_mail_host
-   EMAIL_PORT=2525
 
-4. **Run the server**
+5. **Run the server**
 
    npm start
 
