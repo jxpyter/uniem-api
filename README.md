@@ -73,16 +73,16 @@ You can explore and test all Uniem API endpoints using the public Postman collec
 ## 📂 Folder Structure (simplified)
 
     uniem-api/
-
-├── controllers/
-├── services/
-├── models/
-├── routes/
-├── utils/
-├── config.env
-├── server.js
-├── app.js
-└── package.json
+<br>
+├── controllers/<br>
+├── services/<br>
+├── models/<br>
+├── routes/<br>
+├── utils/<br>
+├── config.env<br>
+├── server.js<br>
+├── app.js<br>
+└── package.json<br>
 
 ## 🛡 License
 
