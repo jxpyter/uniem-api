@@ -51,7 +51,7 @@
 
 3. **Configure environment variables**
 
-   Create a file named config.env in the root directory and add the following:
+   Create a file named <b>config.env</b> in the root directory and add the following:
 
    NODE_ENV=development<br>PORT=3000<br>DATABASE=localhost<br><br>
 
