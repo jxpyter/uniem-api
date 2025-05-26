@@ -53,11 +53,9 @@
 
    Create a file named config.env in the root directory and add the following:
 
-   NODE_ENV=development<br>PORT=3000<br>DATABASE=localhost
+   NODE_ENV=development<br>PORT=3000<br>DATABASE=localhost<br><br>
 
-   JWT_SECRET=your_secret
-   JWT_EXPIRES_IN=30d
-   JWT_COOKIE_EXPIRES_IN=90
+   JWT_SECRET=your_secret<br>JWT_EXPIRES_IN=30d<br>JWT_COOKIE_EXPIRES_IN=90
 
 
 5. **Run the server**
