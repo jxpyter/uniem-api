@@ -53,9 +53,7 @@
 
    Create a file named config.env in the root directory and add the following:
 
-   NODE_ENV=development
-   PORT=3000
-   DATABASE=localhost
+   NODE_ENV=development<br>PORT=3000<br>DATABASE=localhost
 
    JWT_SECRET=your_secret
    JWT_EXPIRES_IN=30d
