@@ -84,9 +84,6 @@ You can explore and test all Uniem API endpoints using the public Postman collec
 ├── app.js<br>
 └── package.json<br>
 
-## 🛡 License
-
-This project is licensed under the MIT License — see the LICENSE file for details.
 
 ## 👨‍💻 Author
 
